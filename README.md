@@ -20,4 +20,6 @@ STEP -05 - RUN " streamlit run app.py " FROM TERMINAL IN THE LOCATION WHERE THE 
 
 
 
-file:///C:/Users/hp/Desktop/GIT/covid_tracer/demo.gif
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/52126313/85228671-65dae500-b402-11ea-821f-1790116c744a.gif)
+
