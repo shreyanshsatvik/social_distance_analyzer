@@ -17,3 +17,7 @@ STEP -04 - Download the weights and cfg file from https://pjreddie.com/darknet/y
 
 
 STEP -05 - RUN " streamlit run app.py " FROM TERMINAL IN THE LOCATION WHERE THE PROJECT IS CLONED/DOWNLOADED.
+
+
+
+file:///C:/Users/hp/Desktop/GIT/covid_tracer/demo.gif
